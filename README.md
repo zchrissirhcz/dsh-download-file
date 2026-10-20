@@ -34,7 +34,9 @@ dsh plugin --profile <profile> add file:./dsh-download-file
 dsh plugin --profile <profile> add dsh-download-file
 ```
 
-GUI 方式：DSH 桌面版 → 插件 → 搜索 `dsh-download-file`。
+GUI 方式：DSH 桌面版 → 插件 → 填入 "https://github.com/zchrissirhcz/dsh-download-file"
+
+![](install_in_dsh_desktop.png)
 
 ---
 
