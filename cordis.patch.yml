@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-download-file
+      name: 'dsh-download-file'
+      config: {}

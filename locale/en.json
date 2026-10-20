@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Download File",
+    "description": "Downloads a file from a URL and writes it to disk as a tool."
+  }
+}
