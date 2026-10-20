@@ -1,9 +1,23 @@
 {
   "name": "dsh-download-file",
   "version": "1.0.0",
-  "private": true,
   "type": "module",
   "description": "下载文件到磁盘的工具插件",
+  "license": "MIT",
+  "homepage": "https://github.com/zchrissirhcz/dsh-download-file",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zchrissirhcz/dsh-download-file.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zchrissirhcz/dsh-download-file/issues"
+  },
+  "keywords": [
+    "dsh",
+    "plugin",
+    "download",
+    "deepseek-harness"
+  ],
   "engines": {
     "dsh": ">=0.2.0"
   },
